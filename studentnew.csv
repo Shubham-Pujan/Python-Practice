@@ -1,0 +1,12 @@
+rollno,name,gender,class,course,hostel,fees,sas,python,hadoop,total
+109,meena,m,C1,msc,True,128140,60,90,76,226
+102,apporva,m,C2,pg,False,124000,76,96,68,240
+105,shubham,f,C1,msc,True,149371,94,70,84,248
+106,shubham,f,C3,msc,False,114335,91,83,87,261
+103,goldie,m,C1,msc,True,117042,76,62,99,237
+110,hitesh,f,C1,pg,True,139018,75,95,68,238
+101,shruti,m,C2,msc,False,121139,92,69,93,254
+107,vijay,f,C2,pg,False,116556,79,76,87,242
+104,achal,m,C1,pg,True,148897,89,80,80,249
+111,lalit,m,C2,pg,True,133599,76,80,93,249
+108,varun,f,C2,msc,False,121231,81,61,79,221
